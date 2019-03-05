@@ -3,7 +3,16 @@
 this repository is used to tidy those programs generated in the course of studying THz FMCW
 -------------------------------------------------------------------------------------------
 
-what is the csv-files?
+a. what is the svd-files?
+
+All data files produced by SynViewScan are binary files with the suffix ‘svd’.
+
+The *.svd-files contain all necessary format information and data in order to be displayed correctly.
+
+
+
+
+b. what is the csv-files?
 
 The csv-file will contain some header information and six columns with the following data:
 
